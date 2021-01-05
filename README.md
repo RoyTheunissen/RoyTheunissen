@@ -5,15 +5,16 @@
 
 - 📫 You can reach me at **roy.theunissen@live.nl**
 
+<!-- Got them from here: https://simpleicons.org -->
 <p align="left">
   <img src="https://simpleicons.org/icons/unity.svg" alt="unity" width="40" height="40"/> 
   <img src="https://simpleicons.org/icons/autodesk.svg" alt="maya" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://simpleicons.org/icons/adobephotoshop.svg" alt="photoshop" width="40" height="40"/> 
+  <img src="https://simpleicons.org/icons/csharp.svg" alt="csharp" width="40" height="40"/> 
+  <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://simpleicons.org/icons/php.svg" alt="php" width="40" height="40"/> 
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://simpleicons.org/icons/git.svg" alt="git" width="40" height="40"/> 
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roytheunissen&show_icons=true" alt="roytheunissen" /></p>
