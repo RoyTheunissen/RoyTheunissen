@@ -23,6 +23,7 @@
 <a href="https://medium.com/@roy.theunissen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@roy.theunissen" height="30" width="30" /></a> 
 </p>
 
+<p align="center"><i>shoutout to all the dark mode users squinting to see the icons</i></p>
 
 - 👨‍💻 My projects can be seen at [roytheunissen.com](roytheunissen.com)
 
