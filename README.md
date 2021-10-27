@@ -19,7 +19,7 @@
 <a href="https://roytheunissen.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="roytheunissen.com" height="30" width="30" /></a> 
 <a href="https://www.youtube.com/c/r_m_theunissen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="r_m_theunissen" height="30" width="30" /></a> 
 <a href="https://twitter.com/roy_theunissen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="misterroyzo" height="30" width="30" /></a> 
-<a href="https://linkedin.com/in/roy_theunissen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roy-m-theunissen" height="30" width="30" /></a> 
+<a href="https://www.linkedin.com/in/roy-m-theunissen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roy-m-theunissen" height="30" width="30" /></a> 
 <a href="https://medium.com/@roy.theunissen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@roy.theunissen" height="30" width="30" /></a> 
 </p>
 
