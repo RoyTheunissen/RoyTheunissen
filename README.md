@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roy Theunissen</h1>
-<h3 align="center">I don't know if you've heard but I make the video games</h3>
+<h3 align="center">The rumours are all true, I do in fact make the video games</h3>
 
 <p align="center">
 <b>I do this</b><br />
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-<b>My delicious content can be found here</b><br />
+<b>And I post about it here</b><br />
 <a href="https://roytheunissen.com" target="blank"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="globe_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="globe_light.png">
