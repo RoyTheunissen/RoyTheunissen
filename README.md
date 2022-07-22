@@ -4,26 +4,86 @@
 <p align="center">
 <b>I do this</b><br />
 <!-- Got the icons from here by the way: https://simpleicons.org -->
-  <img src="https://simpleicons.org/icons/unity.svg" alt="unity" width="40" height="40"/> 
-  <img src="https://simpleicons.org/icons/autodesk.svg" alt="maya" width="40" height="40"/> 
-  <img src="https://simpleicons.org/icons/adobephotoshop.svg" alt="photoshop" width="40" height="40"/> 
-  <img src="https://simpleicons.org/icons/csharp.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://simpleicons.org/icons/php.svg" alt="php" width="40" height="40"/> 
-  <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://simpleicons.org/icons/git.svg" alt="git" width="40" height="40"/> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="unity_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="unity_light.png">
+    <img alt="unity" src="unity_dark.png" width="40" height="40" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="autodesk_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="autodesk_light.png">
+    <img alt="autodesk" src="autodesk_dark.png" width="40" height="40" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="houdini_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="houdini_light.png">
+    <img alt="houdini" src="houdini_dark.png" width="40" height="40" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="adobephotoshop_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="adobephotoshop_light.png">
+    <img alt="adobephotoshop" src="adobephotoshop_dark.png" width="40" height="40" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="adobeaftereffects_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="adobeaftereffects_light.png">
+    <img alt="adobeaftereffects" src="adobeaftereffects_dark.png" width="40" height="40" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="git_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="git_light.png">
+    <img alt="git" src="git_dark.png" width="40" height="40" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="csharp_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="csharp_light.png">
+    <img alt="csharp" src="csharp_dark.png" width="40" height="40" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="cplusplus_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="cplusplus_light.png">
+    <img alt="cplusplus" src="cplusplus_dark.png" width="40" height="40" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="php_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="php_light.png">
+    <img alt="php" src="php_dark.png" width="40" height="40" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="javascript_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="javascript_light.png">
+    <img alt="javascript" src="javascript_dark.png" width="40" height="40" />
+  </picture>
 </p>
 
 <p align="center">
 <b>My delicious content can be found here</b><br />
-<a href="https://roytheunissen.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="roytheunissen.com" height="30" width="30" /></a> 
-<a href="https://www.youtube.com/c/r_m_theunissen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="r_m_theunissen" height="30" width="30" /></a> 
-<a href="https://twitter.com/roy_theunissen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="misterroyzo" height="30" width="30" /></a> 
-<a href="https://www.linkedin.com/in/roy-m-theunissen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roy-m-theunissen" height="30" width="30" /></a> 
-<a href="https://medium.com/@roy.theunissen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@roy.theunissen" height="30" width="30" /></a> 
+<a href="https://roytheunissen.com" target="blank"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="globe_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="globe_light.png">
+    <img alt="globe" src="globe_dark.png" width="30" height="30" align="center" />
+</picture></a> 
+<a href="https://www.youtube.com/c/r_m_theunissen" target="blank"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="youtube_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="youtube_light.png">
+    <img alt="youtube" src="youtube_dark.png" width="30" height="30" align="center" />
+</picture></a> 
+<a href="https://twitter.com/roy_theunissen" target="blank"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="twitter_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="twitter_light.png">
+    <img alt="twitter" src="twitter_dark.png" width="30" height="30" align="center" />
+</picture></a> 
+<a href="https://www.linkedin.com/in/roy-m-theunissen/" target="blank"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="linkedin_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="linkedin_light.png">
+    <img alt="linkedin" src="linkedin_dark.png" width="30" height="30" align="center" />
+</picture></a> 
+<a href="https://medium.com/@roy.theunissen" target="blank"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="medium_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="medium_light.png">
+    <img alt="medium" src="medium_dark.png" width="30" height="30" align="center" />
+</picture></a> 
 </p>
-
-<p align="center"><i>shoutout to all the dark mode users squinting to see the icons</i></p>
 
 - 👨‍💻 My projects can be seen at [roytheunissen.com](roytheunissen.com)
 
