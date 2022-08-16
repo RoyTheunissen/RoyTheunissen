@@ -85,24 +85,11 @@
 </picture></a> 
 </p>
 
-- 👨‍💻 My projects can be seen at [roytheunissen.com](roytheunissen.com)
+<br />
+<p align="center">
+👨‍💻 My projects can be seen at <a href="roytheunissen.com">roytheunissen.com</a><br />
+📫 You can reach me at <a href="mailto:roy.theunissen@live.nl">roy.theunissen@live.nl</a>
+</p>
+<br />
 
-- 📫 You can reach me at **roy.theunissen@live.nl**
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roytheunissen&show_icons=true" alt="roytheunissen" /></p>
-
-<!--
-**RoyTheunissen/RoyTheunissen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=roytheunissen&show_icons=true" alt="roytheunissen" /></p>
