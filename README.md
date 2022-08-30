@@ -89,6 +89,8 @@
 <p align="center">
 👨‍💻 My projects can be seen at <a href="roytheunissen.com">roytheunissen.com</a><br />
 📫 You can reach me at <a href="mailto:roy.theunissen@live.nl">roy.theunissen@live.nl</a>
+<br /><br />
+Like my content? Consider making a donation on <a href=https://ko-fi.com/roytheunissen>Ko-fi</a>.
 </p>
 <br />
 
