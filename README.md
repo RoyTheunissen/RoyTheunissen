@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roy Theunissen</h1>
+<h1 align="center">Hi, I'm Roy Theunissen</h1>
 <h3 align="center">The rumours are all true, I do in fact make the video games</h3>
 
 <p align="center">
@@ -92,4 +92,3 @@
 <br /><br />
 Like my content? Consider making a donation on <a href=https://ko-fi.com/roytheunissen>Ko-fi</a>.
 </p>
-<br />
