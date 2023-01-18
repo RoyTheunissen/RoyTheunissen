@@ -93,5 +93,3 @@
 Like my content? Consider making a donation on <a href=https://ko-fi.com/roytheunissen>Ko-fi</a>.
 </p>
 <br />
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=roytheunissen&show_icons=true" alt="roytheunissen" /></p>
