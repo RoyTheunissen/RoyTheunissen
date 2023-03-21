@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Roy Theunissen</h1>
+<h1 align="center"><img src="Logo.png" /></h1>
 <h3 align="center">The rumours are all true, I do in fact make the video games</h3>
 
 <p align="center">
