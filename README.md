@@ -1,4 +1,4 @@
-<h1 align="center"><img src="Logo Animated.gif" /></h1>
+<p align="center"><img src="Logo Animated.gif"></p>
 <h3 align="center">The rumours are all true, I do in fact make the video games</h3>
 
 <p align="center">
