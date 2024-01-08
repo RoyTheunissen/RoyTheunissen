@@ -1,5 +1,5 @@
 <p align="center"><img src="Logo Animated.gif"></p>
-<h3 align="center">The rumours are all true, I do in fact make the video games</h3>
+<h3 align="center">Handing out moderately useful Unity tools like they're CANDY (sparingly)</h3>
 
 <p align="center">
 <b>I do this</b><br />
