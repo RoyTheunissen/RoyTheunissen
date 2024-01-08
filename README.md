@@ -84,11 +84,10 @@
     <img alt="medium" src="medium_dark.png" width="30" height="30" align="center" />
 </picture></a> 
 </p>
+<p align="center"><sup><sub>Roy Theunissen Holding Ltd. does not officially recognize the new Twitter logo for violations against branding and good taste</sub></sup></p>
 
 <br />
 <p align="center">
 👨‍💻 My projects can be seen at <a href="https://roytheunissen.com">roytheunissen.com</a><br />
 📫 You can reach me at <a href="mailto:roy.theunissen@live.nl">roy.theunissen@live.nl</a>
-<br /><br />
-Like my content? Consider making a donation on <a href=https://ko-fi.com/roytheunissen>Ko-fi</a>.
 </p>
