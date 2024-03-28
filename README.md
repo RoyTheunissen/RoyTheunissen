@@ -30,11 +30,6 @@
     <img alt="adobeaftereffects" src="adobeaftereffects_dark.png" width="40" height="40" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="git_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="git_light.png">
-    <img alt="git" src="git_dark.png" width="40" height="40" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="csharp_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="csharp_light.png">
     <img alt="csharp" src="csharp_dark.png" width="40" height="40" />
