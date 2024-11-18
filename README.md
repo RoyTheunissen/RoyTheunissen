@@ -52,7 +52,7 @@
     <source media="(prefers-color-scheme: light)" srcset="youtube_light.png">
     <img alt="youtube" src="youtube_dark.png" width="30" height="30" align="center" />
 </picture></a> 
-<a href="https://bsky.app/profile/roytheunissen.bsky.social" target="blank"><picture>
+<a href="https://bsky.app/profile/roytheunissen.com" target="blank"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="bluesky_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="bluesky_light.png">
     <img alt="bluesky" src="bluesky_dark.png" width="30" height="30" align="center" />
