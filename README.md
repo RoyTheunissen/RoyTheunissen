@@ -47,38 +47,22 @@
     <source media="(prefers-color-scheme: light)" srcset="globe_light.png">
     <img alt="globe" src="globe_dark.png" width="30" height="30" align="center" />
 </picture></a> 
-<a href="https://www.youtube.com/c/r_m_theunissen" target="blank"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="youtube_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="youtube_light.png">
-    <img alt="youtube" src="youtube_dark.png" width="30" height="30" align="center" />
-</picture></a> 
 <a href="https://bsky.app/profile/roytheunissen.com" target="blank"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="bluesky_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="bluesky_light.png">
     <img alt="bluesky" src="bluesky_dark.png" width="30" height="30" align="center" />
 </picture></a>
+<a href="https://www.youtube.com/c/r_m_theunissen" target="blank"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="youtube_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="youtube_light.png">
+    <img alt="youtube" src="youtube_dark.png" width="30" height="30" align="center" />
+</picture></a>
 <a href="https://www.tiktok.com/@roy_theunissen" target="blank"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="tiktok_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="tiktok_light.png">
     <img alt="tiktok" src="tiktok_dark.png" width="30" height="30" align="center" />
-</picture></a> 
-<a href="https://www.linkedin.com/in/roy-m-theunissen/" target="blank"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="linkedin_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="linkedin_light.png">
-    <img alt="linkedin" src="linkedin_dark.png" width="30" height="30" align="center" />
 </picture></a>
-<a href="https://twitter.com/roy_theunissen" target="blank"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="twitter_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="twitter_light.png">
-    <img alt="twitter" src="twitter_dark.png" width="30" height="30" align="center" />
-</picture></a>
-<a href="https://medium.com/@roy.theunissen" target="blank"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="medium_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="medium_light.png">
-    <img alt="medium" src="medium_dark.png" width="30" height="30" align="center" />
-</picture></a> 
 </p>
-<p align="center"><sup><sub>Roy Theunissen Holding Ltd. does not officially recognize the new Twitter logo for violations against branding and good taste</sub></sup></p>
 
 <br />
 <p align="center">
